@@ -1,0 +1,18 @@
+body{
+    font-family: 'Kdam Thmor Pro', sans-serif;
+}
+#caja{
+    display: flex;
+    margin-top: 100px;
+    align-items: center;
+    flex-direction: column;
+    text-align: center;
+
+}
+.lis{
+    list-style: none;
+    font-size: 10em;
+    cursor: pointer;
+    border: 1px solid black;
+    padding: 10px;
+}
